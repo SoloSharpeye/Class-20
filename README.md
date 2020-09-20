@@ -1,2 +1,2 @@
-# Class-20
-I created an algorithm for detecting when 2 objects are colliding. 
+# p5.play-boilerplate
+Boiler plate for p5.play
